@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Instructions](instructions.md)
+* [Authoring with Gitbook](instructions.md)
 

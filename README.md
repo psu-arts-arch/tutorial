@@ -1,4 +1,4 @@
-# tutorial
+# Course development tutorial
 
-A beginner's guide to Gitbook — based on questions arising from a new user.
+A beginner's guide to course and materials development with Gitbook.
 
